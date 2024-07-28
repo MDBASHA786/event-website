@@ -1,0 +1,43 @@
+#footer {
+    background-color: #00008B;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  .footer-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-logo-img {
+    width: 10px;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .social-icon {
+    display: flex;
+  }
+  
+  .social-svg {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .social-svg.twitter path {
+    fill: #1DA1F2;
+  }
+  
+  .social-svg.instagram path {
+    fill: #E4405F;
+  }
+  
+  
